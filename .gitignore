@@ -154,3 +154,5 @@ labeledPrompts.txt
 prompts.txt
 /subset/*
 randomSubsetGen.bat
+labeledPersonalPromptSource.txt
+personalPromptSource.txt
