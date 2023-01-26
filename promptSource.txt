@@ -1,0 +1,39 @@
+((realistic_style))
+((style_of_(western_comics)))
+((style_of_(sketch)))
+((style_of_(watercolor)))
+
+(face)
+(portrait)
+(upper_body)
+(cowboy_shot)
+(full_body)
+[negative_space], ((scenery)), (landscape), seen_from_behind, looking_away
+
+((1woman)), (wavy_hair), (black_hair), long_hair, black_eyes, [busty], gothic
+((1woman)), (curly_hair), (shoulder-length_hair), (brown_hair), (blue_eyes), (medium_breasts), slim_waist, (wide_hips)
+((1man)), (green_eyes), (red_hair), (long_hair), [wavy_hair], (toned), (pale_skin)
+((1man)), (curly_hair), (short_hair), blonde_hair, blue_eyes, [plump], (broad_shoulders)
+
+(leather_jacket), white_shirt, (collared_shirt), black_pants
+((bomber_jacket)), (fur_collar), open_jacket, (jumpsuit)
+(suit_jacket), (white_dress_shirt), black_tie, black_pants, formal_suit
+((peacoat)), high_collar, black_tights, (wool_coat)
+maid_outfit, feather_duster, ((off-the-shoulder)), (corset), (cleavage)
+(red_(sundress)), (a-line_dress), (knee-length)_dress, (sleeveless)_dress, ((sunhat))
+((overalls)), white_crop_top, sleeveless
+((military_fatigues)), (open_jacket), white_shirt, (tank_top), (baggy_pants)
+
+(serious), calm_smile
+warm_smile, happy
+(evil_smile), smirk, smug
+(blushing), embarrassed, (looking_away)
+
+transparent_background, ((drop_shadow)), simple_background
+(huge_moon), night_sky, star(sky), ((rimlighting)), (dark)
+sunrise, (backlighting), ((dramatic_lighting))
+lake_background, still_lake, calm_lake, ((reflections))
+balcony, (crashing_waves), rough_ocean, (stormy_sky)
+library_background, ((bookshelves)), (window_light), (((sidelighting)))
+(castle_background), stone_walls, (moon_through_window), (gothic_architecture), (huge_moon), moonlight, ((rimlighting)), dramatic_lighting
+((cityscape)), skyline, (urban), [architecture], city, (((rooftop)))
