@@ -3,8 +3,8 @@ import os.path
 import random as r
 
 # CONSTANTS
-SAMPLING = 28
-SAMPLINGEST = 24
+SAMPLING = 64
+SAMPLINGEST = (1/5)
 FILENAME = os.path.basename(__file__)
 
 # FILE ARGUMENTS
